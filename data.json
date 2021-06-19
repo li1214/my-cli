@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "data": {
+    "list": [
+      {
+        "id": 12345678,
+        "name": "vxi",
+        "info": {
+          "local": "上海"
+        }
+      }
+    ]
+  },
+  "msg":"这里欧式的"
+}

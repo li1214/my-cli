@@ -1,0 +1,28 @@
+{
+  "name": "my-cli",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "bin": {
+    "vxi": "bin/vxi"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^7.2.0",
+    "download-git-repo": "^3.0.2",
+    "esm": "^3.2.25",
+    "figlet": "^1.5.0",
+    "inquirer": "^8.1.1",
+    "json2ts": "^0.0.7",
+    "lolcatjs": "^2.4.1",
+    "ora": "^5.4.1",
+    "shelljs": "^0.8.4"
+  }
+}
